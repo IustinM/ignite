@@ -1,8 +1,8 @@
 {
+  "homepage": "https://gallant-pare-f92241.netlify.app/",
   "name": "ignite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iustinm.github.io/ignite/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
